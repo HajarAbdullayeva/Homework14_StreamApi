@@ -1,0 +1,19 @@
+ Stream api
+
+
+1.List yaradın bu listi random elementlər ilə doldurun. Bu listdə kökü olan elementləri saxlayıb
+(filter methodu ilə) və bu elementləri cəmini tapın (reduce methodu)
+
+
+2. List yaradın bu listi random elementlər ilə doldurun
+Bu listi sorted methodu ilə sort edin geriyə sort olunmuş listi qaytarın
+
+
+3.List yaradın bu listi random elementlər ilə doldurun
+Bu listin elementlərinin kvadratları olan listi geriyə qaytarın (map methodundan istifadə etməklə)
+
+4. List yaradın (String tipində) bu listi elementlər ilə doldurun
+Bu listdən o sözləri saxlayın ki , o sözlərdə ancaq A və ya a hərfi ilə başlayan sözləri saxlayın(filter methodu ilə)
+
+5. List yaradın (String tipində) bu listi elementlər ilə doldurun
+Bu listdən təkrarlanan elementləri çıxardın(distinct methodu ilə)
